@@ -8,11 +8,8 @@ Welcome to my GitHub account
 
 ### Get in touch
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/icherya/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/icherya)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='24'>](https://t.me/icherya/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='24'>](https://www.codewars.com/users/iCherya/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='24'>](https://leetcode.com/iCherya/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/adam-azouz-362476222/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/adoumazzouz/)
 
 <details>
   <summary>:zap: Github Stats</summary>
