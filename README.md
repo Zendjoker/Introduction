@@ -11,8 +11,4 @@ Welcome to my GitHub account
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/adam-azouz-362476222/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/adoumazzouz/)
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=icherya&show_icons=true" />
-  <img alt="Profile views" src="https://gpvc.arturio.dev/icherya" />
-</details>
+
